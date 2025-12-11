@@ -1,0 +1,2718 @@
+{
+    "printRegisterId": 37911,
+    "registerSentDate": "2025-12-09",
+    "lawsuits": [
+        {
+            "lawsuitId": 745192599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745195599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745196099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745196499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745213699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745217899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745218199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745223199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745224199,
+            "errorResult": {
+                "errors": [
+                    "Нет обязательного поля: snils or inn"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745225699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745226299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745228799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745235999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745236199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745236999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745247499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745252899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745256099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745261299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745262299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745266399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745269599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745270499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745274399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745279399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745280199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745281999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745285599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745289599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745298999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745301299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745305099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745306899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745310799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745312099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745318999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745319699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745320999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745322799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745335599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745336599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745337399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745337899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745340699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745342599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745354799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745366499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745371999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745373099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745375899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745376199,
+            "errorResult": {
+                "errors": [
+                    "Нет обязательного поля: snils or inn"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745380299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745386899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745386999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745393899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745398199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745400399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745403899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745408699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745411399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745412899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745415599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745415999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745416099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745418599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745423099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745423799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745424699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745432399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745433699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745436199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745439899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745440999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745445999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745446399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745451999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745458999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745461999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745464699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745468199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745470999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745471399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745471599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745472799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745476799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745477499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745478499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745479899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745480699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745483299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745495199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745495299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745497499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745501199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745502299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745505699,
+            "errorResult": {
+                "errors": [
+                    "Нет обязательного поля: fatherName"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745508299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745509199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745510399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745511299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745518199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745518999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745519399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745530399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745537699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745541799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745549899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745550799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745556999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745557199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745561099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745564799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745569499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745569999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745570599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745572399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745578299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745578999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745587999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745591499,
+            "errorResult": {
+                "errors": [
+                    "Нет обязательного поля: snils or inn"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745591599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745591799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745593999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745599799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745600399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745600699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745606399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745607299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745611699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745612899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745614899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745615099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745616299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745618399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745619299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745625999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745627499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745631999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745634399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745634899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745636799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745637999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745639599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745642399,
+            "errorResult": {
+                "errors": [
+                    "Нет обязательного поля: snils or inn"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745642799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745643299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745647199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745647799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745648599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745650099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745653099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745662599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745666399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745668299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745673299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745678799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745680899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745681999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745684199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745684699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745686999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745688999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745690299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745693499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745696299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745705199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745713399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745716399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745720299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745720599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745720699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745722799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745734699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745740599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745741199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745754099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745754199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745754399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745761799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745761999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745769699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745770499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745770899,
+            "errorResult": {
+                "errors": [
+                    "Нет обязательного поля: snils or inn"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745773899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745776899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745787299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745793099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745794899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745796399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745803699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745807099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745809099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745811699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745821299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745821999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745823599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745824899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745825099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745826899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745827899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745831399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745837499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745839299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745842999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745845799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745853399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745859599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745862699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745863999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745868099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745873999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745875199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745875699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745876099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745876699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745876899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745877099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745879599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745880299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745882499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745883099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745888399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745890799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745894799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745895199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745901599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745904199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745906099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745906299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745908599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745909199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745915099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745921099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745928499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745929399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745931099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745938199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745945199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745945499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745949499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745955799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745957599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745961299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745964599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745964899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745971199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745977499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745979599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745979699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745980499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745986999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745991699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745992199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745993699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745994799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745995399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 745998399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746000599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746006399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746008699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746012099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746014099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746018999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746021799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746025799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746027399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746028799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746030499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746031499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746037199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746044099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746044299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746045699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746048499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746056499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746059999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746061499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746064399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746067299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746073599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746074499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746075099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746078399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746078499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746083399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746087499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746088099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746089699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746092699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746093399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746094599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746096799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746104599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746104899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746108399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746109199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746110999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746111399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746112699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746113399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746114199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746114399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746116099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746116499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746118399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746120099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746124699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746126799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746128599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746130799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746131399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746131899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746144399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746144499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746147499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746149499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746151399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746152299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746155099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746158499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746162299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746163999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746166699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746169399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746169499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746170299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746174999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746179199,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746182599,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746190899,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746191799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746196099,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746196799,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746198999,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746205699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746207299,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746215499,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746216399,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 746216699,
+            "errorResult": {
+                "errors": [
+                    "Ошибка"
+                ]
+            }
+        }
+    ]
+}

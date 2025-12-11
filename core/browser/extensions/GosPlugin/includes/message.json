@@ -1,0 +1,33 @@
+{
+   "id":"id",
+   "module":{
+      "type":"module.type",
+      "version":"1.0.0.0"
+   },
+   "method":{
+      "type":"method.type",
+      "data":"",
+      "result":""
+   },
+   "error":"",
+   "node":"node",
+   "mode":"debug",
+   "meta":{
+      "format":{
+         "type":"message",
+         "version":"1.0.0.0",
+         "category":"plugin"
+      },
+      "content":{
+         "type":"application/json",
+         "charset":"utf8",
+         "transferEncoding":""
+      },
+      "routes":[
+         
+      ],
+      "userAgent":"{\"user\":\"\",\"pc\":\"\",\"process\":\"\"}",
+      "chunk":"",
+      "chunks":""
+   }
+}

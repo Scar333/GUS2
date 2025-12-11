@@ -1,0 +1,3568 @@
+{
+    "printRegisterId": 36588,
+    "registerSentDate": "2025-11-20",
+    "lawsuits": [
+        {
+            "lawsuitId": 314724801,
+            "successResult": {
+                "sentNumber": "57MS0011-202-25-0000845",
+                "lawsuitSentDate": "2025-11-12T17:30:07+07:00"
+            }
+        },
+        {
+            "lawsuitId": 617706301,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 687924501,
+            "successResult": {
+                "sentNumber": "31MS0007-202-25-0001125",
+                "lawsuitSentDate": "2025-11-12T18:29:50+07:00"
+            }
+        },
+        {
+            "lawsuitId": 697568901,
+            "successResult": {
+                "sentNumber": "36MS0001-202-25-0001361",
+                "lawsuitSentDate": "2025-11-12T18:58:35+07:00"
+            }
+        },
+        {
+            "lawsuitId": 702404601,
+            "successResult": {
+                "sentNumber": "34MS0072-202-25-0000976",
+                "lawsuitSentDate": "2025-11-12T19:08:16+07:00"
+            }
+        },
+        {
+            "lawsuitId": 704295901,
+            "successResult": {
+                "sentNumber": "42MS0037-202-25-0001560",
+                "lawsuitSentDate": "2025-11-12T19:18:00+07:00"
+            }
+        },
+        {
+            "lawsuitId": 705131301,
+            "successResult": {
+                "sentNumber": "71MS0046-202-25-0001429",
+                "lawsuitSentDate": "2025-11-12T19:44:16+07:00"
+            }
+        },
+        {
+            "lawsuitId": 708063901,
+            "successResult": {
+                "sentNumber": "61MS0062-202-25-0000742",
+                "lawsuitSentDate": "2025-11-12T20:04:36+07:00"
+            }
+        },
+        {
+            "lawsuitId": 717546701,
+            "successResult": {
+                "sentNumber": "63MS0153-202-25-0000821",
+                "lawsuitSentDate": "2025-11-12T20:16:18+07:00"
+            }
+        },
+        {
+            "lawsuitId": 718493801,
+            "successResult": {
+                "sentNumber": "57MS0023-202-25-0000678",
+                "lawsuitSentDate": "2025-11-12T20:36:33+07:00"
+            }
+        },
+        {
+            "lawsuitId": 719418201,
+            "successResult": {
+                "sentNumber": "59MS0082-202-25-0000457",
+                "lawsuitSentDate": "2025-11-12T20:45:44+07:00"
+            }
+        },
+        {
+            "lawsuitId": 727687301,
+            "successResult": {
+                "sentNumber": "12MS0025-202-25-0000632",
+                "lawsuitSentDate": "2025-11-12T20:54:29+07:00"
+            }
+        },
+        {
+            "lawsuitId": 727691501,
+            "successResult": {
+                "sentNumber": "36MS0099-202-25-0000390",
+                "lawsuitSentDate": "2025-11-12T21:02:58+07:00"
+            }
+        },
+        {
+            "lawsuitId": 732617301,
+            "successResult": {
+                "sentNumber": "47MS0061-202-25-0000882",
+                "lawsuitSentDate": "2025-11-12T21:11:00+07:00"
+            }
+        },
+        {
+            "lawsuitId": 740560101,
+            "successResult": {
+                "sentNumber": "52MS0083-202-25-0000807",
+                "lawsuitSentDate": "2025-11-12T21:19:15+07:00"
+            }
+        },
+        {
+            "lawsuitId": 741475701,
+            "successResult": {
+                "sentNumber": "34MS0010-202-25-0000695",
+                "lawsuitSentDate": "2025-11-12T21:38:28+07:00"
+            }
+        },
+        {
+            "lawsuitId": 746560401,
+            "successResult": {
+                "sentNumber": "62MS0028-202-25-0000541",
+                "lawsuitSentDate": "2025-11-12T21:46:28+07:00"
+            }
+        },
+        {
+            "lawsuitId": 747802801,
+            "successResult": {
+                "sentNumber": "18MS0027-202-25-0001133",
+                "lawsuitSentDate": "2025-11-12T21:54:34+07:00"
+            }
+        },
+        {
+            "lawsuitId": 749494101,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 751094801,
+            "successResult": {
+                "sentNumber": "68MS0037-202-25-0000752",
+                "lawsuitSentDate": "2025-11-12T22:14:26+07:00"
+            }
+        },
+        {
+            "lawsuitId": 752005101,
+            "successResult": {
+                "sentNumber": "10MS0009-202-25-0000353",
+                "lawsuitSentDate": "2025-11-12T22:22:17+07:00"
+            }
+        },
+        {
+            "lawsuitId": 755868701,
+            "successResult": {
+                "sentNumber": "47MS0055-202-25-0001504",
+                "lawsuitSentDate": "2025-11-12T22:39:21+07:00"
+            }
+        },
+        {
+            "lawsuitId": 757370601,
+            "successResult": {
+                "sentNumber": "61MS0216-202-25-0000589",
+                "lawsuitSentDate": "2025-11-12T22:47:00+07:00"
+            }
+        },
+        {
+            "lawsuitId": 759782301,
+            "successResult": {
+                "sentNumber": "66MS0061-202-25-0000963",
+                "lawsuitSentDate": "2025-11-12T22:54:58+07:00"
+            }
+        },
+        {
+            "lawsuitId": 760133001,
+            "successResult": {
+                "sentNumber": "57MS0022-202-25-0000919",
+                "lawsuitSentDate": "2025-11-12T23:02:37+07:00"
+            }
+        },
+        {
+            "lawsuitId": 760135101,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000533",
+                "lawsuitSentDate": "2025-11-12T23:10:15+07:00"
+            }
+        },
+        {
+            "lawsuitId": 760746501,
+            "successResult": {
+                "sentNumber": "34MS0088-202-25-0000527",
+                "lawsuitSentDate": "2025-11-12T23:17:53+07:00"
+            }
+        },
+        {
+            "lawsuitId": 761036801,
+            "successResult": {
+                "sentNumber": "63MS0144-202-25-0000730",
+                "lawsuitSentDate": "2025-11-12T23:25:49+07:00"
+            }
+        },
+        {
+            "lawsuitId": 764367001,
+            "successResult": {
+                "sentNumber": "50MS0341-202-25-0000838",
+                "lawsuitSentDate": "2025-11-12T23:42:30+07:00"
+            }
+        },
+        {
+            "lawsuitId": 766404101,
+            "successResult": {
+                "sentNumber": "79MS0005-202-25-0000343",
+                "lawsuitSentDate": "2025-11-12T23:50:14+07:00"
+            }
+        },
+        {
+            "lawsuitId": 768299701,
+            "successResult": {
+                "sentNumber": "42MS0003-202-25-0001398",
+                "lawsuitSentDate": "2025-11-12T23:57:53+07:00"
+            }
+        },
+        {
+            "lawsuitId": 768456001,
+            "successResult": {
+                "sentNumber": "47MS0034-202-25-0001105",
+                "lawsuitSentDate": "2025-11-13T00:05:32+07:00"
+            }
+        },
+        {
+            "lawsuitId": 768832001,
+            "successResult": {
+                "sentNumber": "39MS0048-202-25-0000891",
+                "lawsuitSentDate": "2025-11-13T00:13:13+07:00"
+            }
+        },
+        {
+            "lawsuitId": 769191401,
+            "successResult": {
+                "sentNumber": "36MS0114-202-25-0000801",
+                "lawsuitSentDate": "2025-11-13T00:21:03+07:00"
+            }
+        },
+        {
+            "lawsuitId": 770776201,
+            "successResult": {
+                "sentNumber": "73MS0007-202-25-0000734",
+                "lawsuitSentDate": "2025-11-13T00:28:42+07:00"
+            }
+        },
+        {
+            "lawsuitId": 771526201,
+            "successResult": {
+                "sentNumber": "39MS0048-202-25-0000892",
+                "lawsuitSentDate": "2025-11-13T00:45:25+07:00"
+            }
+        },
+        {
+            "lawsuitId": 773593301,
+            "successResult": {
+                "sentNumber": "34MS0002-202-25-0001633",
+                "lawsuitSentDate": "2025-11-13T00:53:25+07:00"
+            }
+        },
+        {
+            "lawsuitId": 773796801,
+            "successResult": {
+                "sentNumber": "61MS0197-202-25-0000560",
+                "lawsuitSentDate": "2025-11-13T01:01:03+07:00"
+            }
+        },
+        {
+            "lawsuitId": 774206701,
+            "successResult": {
+                "sentNumber": "23MS0113-202-25-0001442",
+                "lawsuitSentDate": "2025-11-13T01:08:41+07:00"
+            }
+        },
+        {
+            "lawsuitId": 774699201,
+            "successResult": {
+                "sentNumber": "72MS0040-202-25-0001192",
+                "lawsuitSentDate": "2025-11-13T01:16:37+07:00"
+            }
+        },
+        {
+            "lawsuitId": 774757501,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 774759901,
+            "successResult": {
+                "sentNumber": "49MS0001-202-25-0000917",
+                "lawsuitSentDate": "2025-11-13T01:34:41+07:00"
+            }
+        },
+        {
+            "lawsuitId": 775228701,
+            "successResult": {
+                "sentNumber": "59MS0150-202-25-0000386",
+                "lawsuitSentDate": "2025-11-13T01:46:42+07:00"
+            }
+        },
+        {
+            "lawsuitId": 775615301,
+            "successResult": {
+                "sentNumber": "19MS0011-202-25-0000532",
+                "lawsuitSentDate": "2025-11-13T01:54:38+07:00"
+            }
+        },
+        {
+            "lawsuitId": 776326901,
+            "successResult": {
+                "sentNumber": "34MS0115-202-25-0000571",
+                "lawsuitSentDate": "2025-11-13T02:02:23+07:00"
+            }
+        },
+        {
+            "lawsuitId": 779224201,
+            "successResult": {
+                "sentNumber": "14MS0041-202-25-0001698",
+                "lawsuitSentDate": "2025-11-13T02:10:02+07:00"
+            }
+        },
+        {
+            "lawsuitId": 779666201,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 779914201,
+            "successResult": {
+                "sentNumber": "23MS0015-202-25-0001501",
+                "lawsuitSentDate": "2025-11-13T02:29:09+07:00"
+            }
+        },
+        {
+            "lawsuitId": 780463801,
+            "successResult": {
+                "sentNumber": "23MS0213-202-25-0001799",
+                "lawsuitSentDate": "2025-11-13T02:37:41+07:00"
+            }
+        },
+        {
+            "lawsuitId": 780599601,
+            "successResult": {
+                "sentNumber": "72MS0019-202-25-0001705",
+                "lawsuitSentDate": "2025-11-13T02:58:21+07:00"
+            }
+        },
+        {
+            "lawsuitId": 780679201,
+            "successResult": {
+                "sentNumber": "10MS0034-202-25-0000263",
+                "lawsuitSentDate": "2025-11-13T03:06:16+07:00"
+            }
+        },
+        {
+            "lawsuitId": 780884601,
+            "successResult": {
+                "sentNumber": "59MS0033-202-25-0000788",
+                "lawsuitSentDate": "2025-11-13T03:13:53+07:00"
+            }
+        },
+        {
+            "lawsuitId": 780980501,
+            "successResult": {
+                "sentNumber": "70MS0019-202-25-0000736",
+                "lawsuitSentDate": "2025-11-13T03:21:31+07:00"
+            }
+        },
+        {
+            "lawsuitId": 781985301,
+            "successResult": {
+                "sentNumber": "12MS0024-202-25-0000601",
+                "lawsuitSentDate": "2025-11-13T03:29:07+07:00"
+            }
+        },
+        {
+            "lawsuitId": 782266401,
+            "successResult": {
+                "sentNumber": "66MS0172-202-25-0000527",
+                "lawsuitSentDate": "2025-11-13T03:37:07+07:00"
+            }
+        },
+        {
+            "lawsuitId": 782323001,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 782490101,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000538",
+                "lawsuitSentDate": "2025-11-13T03:57:05+07:00"
+            }
+        },
+        {
+            "lawsuitId": 782682701,
+            "successResult": {
+                "sentNumber": "72MS0005-202-25-0001781",
+                "lawsuitSentDate": "2025-11-13T04:04:53+07:00"
+            }
+        },
+        {
+            "lawsuitId": 782926401,
+            "successResult": {
+                "sentNumber": "64MS0038-202-25-0000993",
+                "lawsuitSentDate": "2025-11-13T04:12:31+07:00"
+            }
+        },
+        {
+            "lawsuitId": 783077301,
+            "successResult": {
+                "sentNumber": "66MS0001-202-25-0000516",
+                "lawsuitSentDate": "2025-11-13T04:20:08+07:00"
+            }
+        },
+        {
+            "lawsuitId": 783362201,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 783502101,
+            "successResult": {
+                "sentNumber": "14MS0042-202-25-0000927",
+                "lawsuitSentDate": "2025-11-13T04:39:12+07:00"
+            }
+        },
+        {
+            "lawsuitId": 783544401,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000539",
+                "lawsuitSentDate": "2025-11-13T04:50:34+07:00"
+            }
+        },
+        {
+            "lawsuitId": 783621401,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 783722401,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000543",
+                "lawsuitSentDate": "2025-11-13T05:38:38+07:00"
+            }
+        },
+        {
+            "lawsuitId": 783779601,
+            "successResult": {
+                "sentNumber": "72MS0007-202-25-0001288",
+                "lawsuitSentDate": "2025-11-13T06:00:28+07:00"
+            }
+        },
+        {
+            "lawsuitId": 783811401,
+            "successResult": {
+                "sentNumber": "14MS0062-202-25-0001675",
+                "lawsuitSentDate": "2025-11-13T06:08:09+07:00"
+            }
+        },
+        {
+            "lawsuitId": 784015701,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 784029401,
+            "successResult": {
+                "sentNumber": "28RS0015-202-25-0000010",
+                "lawsuitSentDate": "2025-11-13T06:27:11+07:00"
+            }
+        },
+        {
+            "lawsuitId": 784323301,
+            "successResult": {
+                "sentNumber": "23MS0184-202-25-0001359",
+                "lawsuitSentDate": "2025-11-13T06:34:49+07:00"
+            }
+        },
+        {
+            "lawsuitId": 784428301,
+            "successResult": {
+                "sentNumber": "34MS0092-202-25-0000891",
+                "lawsuitSentDate": "2025-11-13T06:42:26+07:00"
+            }
+        },
+        {
+            "lawsuitId": 784458801,
+            "successResult": {
+                "sentNumber": "42MS0047-202-25-0001797",
+                "lawsuitSentDate": "2025-11-13T06:54:22+07:00"
+            }
+        },
+        {
+            "lawsuitId": 784610001,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 784953401,
+            "successResult": {
+                "sentNumber": "23MS0149-202-25-0000806",
+                "lawsuitSentDate": "2025-11-13T07:13:23+07:00"
+            }
+        },
+        {
+            "lawsuitId": 784973101,
+            "successResult": {
+                "sentNumber": "33MS0069-202-25-0000901",
+                "lawsuitSentDate": "2025-11-13T07:21:05+07:00"
+            }
+        },
+        {
+            "lawsuitId": 784975701,
+            "successResult": {
+                "sentNumber": "66MS0142-202-25-0000646",
+                "lawsuitSentDate": "2025-11-13T07:28:44+07:00"
+            }
+        },
+        {
+            "lawsuitId": 785094801,
+            "successResult": {
+                "sentNumber": "59MS0049-202-25-0000678",
+                "lawsuitSentDate": "2025-11-13T07:36:23+07:00"
+            }
+        },
+        {
+            "lawsuitId": 785385401,
+            "successResult": {
+                "sentNumber": "63MS0087-202-25-0000637",
+                "lawsuitSentDate": "2025-11-13T07:44:00+07:00"
+            }
+        },
+        {
+            "lawsuitId": 785392501,
+            "successResult": {
+                "sentNumber": "61MS0185-202-25-0001049",
+                "lawsuitSentDate": "2025-11-13T07:55:58+07:00"
+            }
+        },
+        {
+            "lawsuitId": 785617501,
+            "successResult": {
+                "sentNumber": "42MS0001-202-25-0001298",
+                "lawsuitSentDate": "2025-11-13T08:04:01+07:00"
+            }
+        },
+        {
+            "lawsuitId": 785757301,
+            "successResult": {
+                "sentNumber": "18MS0058-202-25-0000806",
+                "lawsuitSentDate": "2025-11-13T08:11:38+07:00"
+            }
+        },
+        {
+            "lawsuitId": 785758701,
+            "successResult": {
+                "sentNumber": "89MS0011-202-25-0000682",
+                "lawsuitSentDate": "2025-11-13T08:19:15+07:00"
+            }
+        },
+        {
+            "lawsuitId": 786143301,
+            "successResult": {
+                "sentNumber": "47MS0056-202-25-0001128",
+                "lawsuitSentDate": "2025-11-13T08:26:50+07:00"
+            }
+        },
+        {
+            "lawsuitId": 786252501,
+            "successResult": {
+                "sentNumber": "61MS0204-202-25-0001107",
+                "lawsuitSentDate": "2025-11-13T08:34:28+07:00"
+            }
+        },
+        {
+            "lawsuitId": 786387501,
+            "successResult": {
+                "sentNumber": "26MS0001-202-25-0000751",
+                "lawsuitSentDate": "2025-11-13T08:42:05+07:00"
+            }
+        },
+        {
+            "lawsuitId": 786426201,
+            "successResult": {
+                "sentNumber": "29MS0041-202-25-0000556",
+                "lawsuitSentDate": "2025-11-13T09:06:01+07:00"
+            }
+        },
+        {
+            "lawsuitId": 786884401,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 786894201,
+            "successResult": {
+                "sentNumber": "36MS0028-202-25-0000685",
+                "lawsuitSentDate": "2025-11-13T09:25:10+07:00"
+            }
+        },
+        {
+            "lawsuitId": 786966001,
+            "successResult": {
+                "sentNumber": "73MS0053-202-25-0000848",
+                "lawsuitSentDate": "2025-11-13T09:32:51+07:00"
+            }
+        },
+        {
+            "lawsuitId": 787221701,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 787225701,
+            "successResult": {
+                "sentNumber": "42MS0006-202-25-0000749",
+                "lawsuitSentDate": "2025-11-13T10:23:05+07:00"
+            }
+        },
+        {
+            "lawsuitId": 787260601,
+            "successResult": {
+                "sentNumber": "76MS0054-202-25-0000643",
+                "lawsuitSentDate": "2025-11-13T10:30:44+07:00"
+            }
+        },
+        {
+            "lawsuitId": 787334801,
+            "successResult": {
+                "sentNumber": "23MS0159-202-25-0001213",
+                "lawsuitSentDate": "2025-11-13T10:38:25+07:00"
+            }
+        },
+        {
+            "lawsuitId": 787447101,
+            "successResult": {
+                "sentNumber": "41MS0002-202-25-0000809",
+                "lawsuitSentDate": "2025-11-13T10:46:05+07:00"
+            }
+        },
+        {
+            "lawsuitId": 787489401,
+            "successResult": {
+                "sentNumber": "28MS0022-202-25-0000805",
+                "lawsuitSentDate": "2025-11-13T10:53:44+07:00"
+            }
+        },
+        {
+            "lawsuitId": 787556301,
+            "successResult": {
+                "sentNumber": "14MS0056-202-25-0001880",
+                "lawsuitSentDate": "2025-11-13T11:04:31+07:00"
+            }
+        },
+        {
+            "lawsuitId": 787766601,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000549",
+                "lawsuitSentDate": "2025-11-13T11:12:08+07:00"
+            }
+        },
+        {
+            "lawsuitId": 787948901,
+            "successResult": {
+                "sentNumber": "63MS0163-202-25-0001457",
+                "lawsuitSentDate": "2025-11-13T11:19:46+07:00"
+            }
+        },
+        {
+            "lawsuitId": 788309601,
+            "successResult": {
+                "sentNumber": "26MS0001-202-25-0000755",
+                "lawsuitSentDate": "2025-11-13T11:27:28+07:00"
+            }
+        },
+        {
+            "lawsuitId": 788329401,
+            "successResult": {
+                "sentNumber": "66MS0093-202-25-0000654",
+                "lawsuitSentDate": "2025-11-13T11:35:09+07:00"
+            }
+        },
+        {
+            "lawsuitId": 788380301,
+            "successResult": {
+                "sentNumber": "33MS0055-202-25-0000773",
+                "lawsuitSentDate": "2025-11-13T11:42:46+07:00"
+            }
+        },
+        {
+            "lawsuitId": 788820501,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000551",
+                "lawsuitSentDate": "2025-11-13T11:50:24+07:00"
+            }
+        },
+        {
+            "lawsuitId": 788921301,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000552",
+                "lawsuitSentDate": "2025-11-13T12:13:39+07:00"
+            }
+        },
+        {
+            "lawsuitId": 789208801,
+            "successResult": {
+                "sentNumber": "66MS0057-202-25-0000773",
+                "lawsuitSentDate": "2025-11-13T12:21:21+07:00"
+            }
+        },
+        {
+            "lawsuitId": 789447901,
+            "successResult": {
+                "sentNumber": "48MS0019-202-25-0000617",
+                "lawsuitSentDate": "2025-11-13T12:29:05+07:00"
+            }
+        },
+        {
+            "lawsuitId": 789828701,
+            "successResult": {
+                "sentNumber": "53MS0035-202-25-0000793",
+                "lawsuitSentDate": "2025-11-13T12:37:06+07:00"
+            }
+        },
+        {
+            "lawsuitId": 790093101,
+            "successResult": {
+                "sentNumber": "31MS0008-202-25-0000465",
+                "lawsuitSentDate": "2025-11-13T12:45:30+07:00"
+            }
+        },
+        {
+            "lawsuitId": 790922701,
+            "successResult": {
+                "sentNumber": "28RS0004-202-25-0000040",
+                "lawsuitSentDate": "2025-11-13T12:53:08+07:00"
+            }
+        },
+        {
+            "lawsuitId": 791691201,
+            "successResult": {
+                "sentNumber": "23MS0043-202-25-0001985",
+                "lawsuitSentDate": "2025-11-13T13:10:09+07:00"
+            }
+        },
+        {
+            "lawsuitId": 791935601,
+            "successResult": {
+                "sentNumber": "71MS0046-202-25-0001434",
+                "lawsuitSentDate": "2025-11-13T13:19:30+07:00"
+            }
+        },
+        {
+            "lawsuitId": 792009301,
+            "successResult": {
+                "sentNumber": "26MS0001-202-25-0000756",
+                "lawsuitSentDate": "2025-11-13T13:28:50+07:00"
+            }
+        },
+        {
+            "lawsuitId": 792017901,
+            "successResult": {
+                "sentNumber": "46MS0061-202-25-0000517",
+                "lawsuitSentDate": "2025-11-13T13:44:22+07:00"
+            }
+        },
+        {
+            "lawsuitId": 792143101,
+            "successResult": {
+                "sentNumber": "42MS0087-202-25-0001014",
+                "lawsuitSentDate": "2025-11-13T14:28:12+07:00"
+            }
+        },
+        {
+            "lawsuitId": 792188901,
+            "successResult": {
+                "sentNumber": "31MS0061-202-25-0000675",
+                "lawsuitSentDate": "2025-11-13T14:38:11+07:00"
+            }
+        },
+        {
+            "lawsuitId": 792191401,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 792424101,
+            "successResult": {
+                "sentNumber": "59MS0055-202-25-0000460",
+                "lawsuitSentDate": "2025-11-13T15:35:22+07:00"
+            }
+        },
+        {
+            "lawsuitId": 792544301,
+            "successResult": {
+                "sentNumber": "37MS0032-202-25-0000227",
+                "lawsuitSentDate": "2025-11-13T15:58:01+07:00"
+            }
+        },
+        {
+            "lawsuitId": 792915801,
+            "successResult": {
+                "sentNumber": "59MS0127-202-25-0000322",
+                "lawsuitSentDate": "2025-11-13T16:09:06+07:00"
+            }
+        },
+        {
+            "lawsuitId": 793118801,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000557",
+                "lawsuitSentDate": "2025-11-13T16:25:43+07:00"
+            }
+        },
+        {
+            "lawsuitId": 793148401,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 793292501,
+            "successResult": {
+                "sentNumber": "66MS0047-202-25-0000602",
+                "lawsuitSentDate": "2025-11-13T16:58:24+07:00"
+            }
+        },
+        {
+            "lawsuitId": 793470201,
+            "successResult": {
+                "sentNumber": "66MS0204-202-25-0000518",
+                "lawsuitSentDate": "2025-11-13T17:28:48+07:00"
+            }
+        },
+        {
+            "lawsuitId": 793824601,
+            "successResult": {
+                "sentNumber": "61MS0176-202-25-0000808",
+                "lawsuitSentDate": "2025-11-13T17:40:23+07:00"
+            }
+        },
+        {
+            "lawsuitId": 794103201,
+            "successResult": {
+                "sentNumber": "53MS0021-202-25-0000820",
+                "lawsuitSentDate": "2025-11-13T17:49:42+07:00"
+            }
+        },
+        {
+            "lawsuitId": 794256101,
+            "successResult": {
+                "sentNumber": "28MS0018-202-25-0000915",
+                "lawsuitSentDate": "2025-11-13T18:05:19+07:00"
+            }
+        },
+        {
+            "lawsuitId": 794509301,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 794532801,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 794646101,
+            "successResult": {
+                "sentNumber": "47MS0040-202-25-0000777",
+                "lawsuitSentDate": "2025-11-13T19:16:51+07:00"
+            }
+        },
+        {
+            "lawsuitId": 794793001,
+            "successResult": {
+                "sentNumber": "52MS0014-202-25-0000464",
+                "lawsuitSentDate": "2025-11-13T19:27:59+07:00"
+            }
+        },
+        {
+            "lawsuitId": 794895201,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 794989901,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 795036401,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 795040301,
+            "successResult": {
+                "sentNumber": "23MS0034-202-25-0000825",
+                "lawsuitSentDate": "2025-11-13T20:30:20+07:00"
+            }
+        },
+        {
+            "lawsuitId": 795303301,
+            "successResult": {
+                "sentNumber": "26MS0001-202-25-0000764",
+                "lawsuitSentDate": "2025-11-13T20:38:33+07:00"
+            }
+        },
+        {
+            "lawsuitId": 795371401,
+            "successResult": {
+                "sentNumber": "76MS0056-202-25-0000794",
+                "lawsuitSentDate": "2025-11-13T20:47:09+07:00"
+            }
+        },
+        {
+            "lawsuitId": 795578901,
+            "successResult": {
+                "sentNumber": "61MS0058-202-25-0001062",
+                "lawsuitSentDate": "2025-11-13T21:06:24+07:00"
+            }
+        },
+        {
+            "lawsuitId": 795614701,
+            "successResult": {
+                "sentNumber": "34MS0061-202-25-0001035",
+                "lawsuitSentDate": "2025-11-13T21:14:53+07:00"
+            }
+        },
+        {
+            "lawsuitId": 795698201,
+            "successResult": {
+                "sentNumber": "70MS0002-202-25-0001191",
+                "lawsuitSentDate": "2025-11-13T21:23:24+07:00"
+            }
+        },
+        {
+            "lawsuitId": 795955201,
+            "successResult": {
+                "sentNumber": "23MS0109-202-25-0000796",
+                "lawsuitSentDate": "2025-11-13T21:31:20+07:00"
+            }
+        },
+        {
+            "lawsuitId": 796179301,
+            "successResult": {
+                "sentNumber": "27MS0052-202-25-0000650",
+                "lawsuitSentDate": "2025-11-13T21:38:58+07:00"
+            }
+        },
+        {
+            "lawsuitId": 796213301,
+            "successResult": {
+                "sentNumber": "72MS0047-202-25-0001749",
+                "lawsuitSentDate": "2025-11-13T21:47:13+07:00"
+            }
+        },
+        {
+            "lawsuitId": 796372501,
+            "successResult": {
+                "sentNumber": "40MS0002-202-25-0000660",
+                "lawsuitSentDate": "2025-11-13T21:54:52+07:00"
+            }
+        },
+        {
+            "lawsuitId": 796781401,
+            "successResult": {
+                "sentNumber": "73MS0054-202-25-0000785",
+                "lawsuitSentDate": "2025-11-13T22:08:05+07:00"
+            }
+        },
+        {
+            "lawsuitId": 797041201,
+            "successResult": {
+                "sentNumber": "23MS0138-202-25-0000919",
+                "lawsuitSentDate": "2025-11-13T22:15:44+07:00"
+            }
+        },
+        {
+            "lawsuitId": 797111301,
+            "successResult": {
+                "sentNumber": "43MS0023-202-25-0000722",
+                "lawsuitSentDate": "2025-11-13T22:23:56+07:00"
+            }
+        },
+        {
+            "lawsuitId": 797172001,
+            "successResult": {
+                "sentNumber": "42MS0084-202-25-0001179",
+                "lawsuitSentDate": "2025-11-13T22:31:50+07:00"
+            }
+        },
+        {
+            "lawsuitId": 797306901,
+            "successResult": {
+                "sentNumber": "42MS0002-202-25-0001195",
+                "lawsuitSentDate": "2025-11-13T22:39:26+07:00"
+            }
+        },
+        {
+            "lawsuitId": 797357101,
+            "successResult": {
+                "sentNumber": "28RS0004-202-25-0000041",
+                "lawsuitSentDate": "2025-11-13T22:47:22+07:00"
+            }
+        },
+        {
+            "lawsuitId": 797403301,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000567",
+                "lawsuitSentDate": "2025-11-13T22:54:58+07:00"
+            }
+        },
+        {
+            "lawsuitId": 797405801,
+            "successResult": {
+                "sentNumber": "59MS0083-202-25-0000440",
+                "lawsuitSentDate": "2025-11-13T23:10:33+07:00"
+            }
+        },
+        {
+            "lawsuitId": 797769901,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 797864901,
+            "successResult": {
+                "sentNumber": "73MS0046-202-25-0000741",
+                "lawsuitSentDate": "2025-11-13T23:59:22+07:00"
+            }
+        },
+        {
+            "lawsuitId": 797868601,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000570",
+                "lawsuitSentDate": "2025-11-14T00:11:52+07:00"
+            }
+        },
+        {
+            "lawsuitId": 797897401,
+            "successResult": {
+                "sentNumber": "66MS0211-202-25-0000557",
+                "lawsuitSentDate": "2025-11-14T00:19:31+07:00"
+            }
+        },
+        {
+            "lawsuitId": 798076101,
+            "successResult": {
+                "sentNumber": "46MS0058-202-25-0000556",
+                "lawsuitSentDate": "2025-11-14T00:27:34+07:00"
+            }
+        },
+        {
+            "lawsuitId": 798219201,
+            "successResult": {
+                "sentNumber": "44MS0029-202-25-0000495",
+                "lawsuitSentDate": "2025-11-14T00:35:11+07:00"
+            }
+        },
+        {
+            "lawsuitId": 798362201,
+            "successResult": {
+                "sentNumber": "36MS0068-202-25-0000542",
+                "lawsuitSentDate": "2025-11-14T00:42:46+07:00"
+            }
+        },
+        {
+            "lawsuitId": 798366201,
+            "successResult": {
+                "sentNumber": "61MS0058-202-25-0001065",
+                "lawsuitSentDate": "2025-11-14T00:50:45+07:00"
+            }
+        },
+        {
+            "lawsuitId": 798472301,
+            "successResult": {
+                "sentNumber": "52MS0022-202-25-0000602",
+                "lawsuitSentDate": "2025-11-14T00:58:22+07:00"
+            }
+        },
+        {
+            "lawsuitId": 798513601,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000571",
+                "lawsuitSentDate": "2025-11-14T01:14:35+07:00"
+            }
+        },
+        {
+            "lawsuitId": 798700501,
+            "successResult": {
+                "sentNumber": "14MS0060-202-25-0000579",
+                "lawsuitSentDate": "2025-11-14T01:22:12+07:00"
+            }
+        },
+        {
+            "lawsuitId": 798744201,
+            "successResult": {
+                "sentNumber": "44MS0032-202-25-0000484",
+                "lawsuitSentDate": "2025-11-14T01:29:51+07:00"
+            }
+        },
+        {
+            "lawsuitId": 798859801,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 799089301,
+            "successResult": {
+                "sentNumber": "23MS0159-202-25-0001219",
+                "lawsuitSentDate": "2025-11-14T01:49:00+07:00"
+            }
+        },
+        {
+            "lawsuitId": 799230401,
+            "successResult": {
+                "sentNumber": "10MS0033-202-25-0000384",
+                "lawsuitSentDate": "2025-11-14T01:56:37+07:00"
+            }
+        },
+        {
+            "lawsuitId": 799328101,
+            "successResult": {
+                "sentNumber": "50MS0260-202-25-0000588",
+                "lawsuitSentDate": "2025-11-14T02:04:12+07:00"
+            }
+        },
+        {
+            "lawsuitId": 799340401,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 799463701,
+            "successResult": {
+                "sentNumber": "18MS0075-202-25-0000627",
+                "lawsuitSentDate": "2025-11-14T02:24:13+07:00"
+            }
+        },
+        {
+            "lawsuitId": 799496901,
+            "successResult": {
+                "sentNumber": "51MS0027-202-25-0001026",
+                "lawsuitSentDate": "2025-11-14T02:31:49+07:00"
+            }
+        },
+        {
+            "lawsuitId": 799609901,
+            "successResult": {
+                "sentNumber": "59MS0083-202-25-0000441",
+                "lawsuitSentDate": "2025-11-14T02:39:27+07:00"
+            }
+        },
+        {
+            "lawsuitId": 799746801,
+            "successResult": {
+                "sentNumber": "18MS0063-202-25-0000634",
+                "lawsuitSentDate": "2025-11-14T02:47:03+07:00"
+            }
+        },
+        {
+            "lawsuitId": 799768701,
+            "successResult": {
+                "sentNumber": "72MS0038-202-25-0001414",
+                "lawsuitSentDate": "2025-11-14T02:54:38+07:00"
+            }
+        },
+        {
+            "lawsuitId": 799800401,
+            "successResult": {
+                "sentNumber": "66MS0213-202-25-0000701",
+                "lawsuitSentDate": "2025-11-14T03:02:17+07:00"
+            }
+        },
+        {
+            "lawsuitId": 799915401,
+            "successResult": {
+                "sentNumber": "35MS0062-202-25-0000867",
+                "lawsuitSentDate": "2025-11-14T03:18:42+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800128501,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 800140101,
+            "successResult": {
+                "sentNumber": "29MS0013-202-25-0000839",
+                "lawsuitSentDate": "2025-11-14T04:06:41+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800218001,
+            "successResult": {
+                "sentNumber": "19MS0001-202-25-0002098",
+                "lawsuitSentDate": "2025-11-14T04:21:37+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800314601,
+            "successResult": {
+                "sentNumber": "14MS0061-202-25-0001298",
+                "lawsuitSentDate": "2025-11-14T04:29:18+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800322401,
+            "successResult": {
+                "sentNumber": "28RS0015-202-25-0000012",
+                "lawsuitSentDate": "2025-11-14T04:36:54+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800325801,
+            "successResult": {
+                "sentNumber": "62MS0070-202-25-0000332",
+                "lawsuitSentDate": "2025-11-14T04:44:31+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800366901,
+            "successResult": {
+                "sentNumber": "61MS0214-202-25-0001070",
+                "lawsuitSentDate": "2025-11-14T04:52:09+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800508901,
+            "successResult": {
+                "sentNumber": "61MS0196-202-25-0000597",
+                "lawsuitSentDate": "2025-11-14T04:59:46+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800516101,
+            "successResult": {
+                "sentNumber": "23MS0227-202-25-0000584",
+                "lawsuitSentDate": "2025-11-14T05:07:23+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800543401,
+            "successResult": {
+                "sentNumber": "30MS0001-202-25-0001886",
+                "lawsuitSentDate": "2025-11-14T05:24:18+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800774601,
+            "successResult": {
+                "sentNumber": "61MS0112-202-25-0000731",
+                "lawsuitSentDate": "2025-11-14T05:31:57+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800818501,
+            "successResult": {
+                "sentNumber": "42MS0108-202-25-0000968",
+                "lawsuitSentDate": "2025-11-14T05:39:38+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800835501,
+            "successResult": {
+                "sentNumber": "26MS0001-202-25-0000781",
+                "lawsuitSentDate": "2025-11-14T05:47:14+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800846801,
+            "successResult": {
+                "sentNumber": "23MS0168-202-25-0000847",
+                "lawsuitSentDate": "2025-11-14T05:54:52+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800864401,
+            "successResult": {
+                "sentNumber": "27MS0072-202-25-0000774",
+                "lawsuitSentDate": "2025-11-14T06:02:30+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800881201,
+            "successResult": {
+                "sentNumber": "57MS0012-202-25-0000504",
+                "lawsuitSentDate": "2025-11-14T06:10:09+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800907001,
+            "successResult": {
+                "sentNumber": "31MS0064-202-25-0000688",
+                "lawsuitSentDate": "2025-11-14T06:27:05+07:00"
+            }
+        },
+        {
+            "lawsuitId": 800952801,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 800999301,
+            "successResult": {
+                "sentNumber": "40MS0013-202-25-0000227",
+                "lawsuitSentDate": "2025-11-14T07:15:11+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801084401,
+            "successResult": {
+                "sentNumber": "23MS0109-202-25-0000800",
+                "lawsuitSentDate": "2025-11-14T07:30:21+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801175601,
+            "successResult": {
+                "sentNumber": "39MS0026-202-25-0000709",
+                "lawsuitSentDate": "2025-11-14T07:38:02+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801274701,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 801291001,
+            "successResult": {
+                "sentNumber": "14MS0041-202-25-0001717",
+                "lawsuitSentDate": "2025-11-14T07:56:58+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801324501,
+            "successResult": {
+                "sentNumber": "65MS0012-202-25-0001177",
+                "lawsuitSentDate": "2025-11-14T08:04:35+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801418701,
+            "successResult": {
+                "sentNumber": "21MS0003-202-25-0000749",
+                "lawsuitSentDate": "2025-11-14T08:12:11+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801493501,
+            "successResult": {
+                "sentNumber": "35MS0033-202-25-0000732",
+                "lawsuitSentDate": "2025-11-14T08:19:49+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801506801,
+            "successResult": {
+                "sentNumber": "23MS0160-202-25-0000941",
+                "lawsuitSentDate": "2025-11-14T08:31:51+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801509701,
+            "successResult": {
+                "sentNumber": "27MS0027-202-25-0000453",
+                "lawsuitSentDate": "2025-11-14T08:39:28+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801626301,
+            "successResult": {
+                "sentNumber": "34MS0011-202-25-0001338",
+                "lawsuitSentDate": "2025-11-14T08:47:08+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801675201,
+            "successResult": {
+                "sentNumber": "34MS0068-202-25-0001177",
+                "lawsuitSentDate": "2025-11-14T08:54:45+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801710001,
+            "successResult": {
+                "sentNumber": "61MS0119-202-25-0000676",
+                "lawsuitSentDate": "2025-11-14T09:02:29+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801713501,
+            "successResult": {
+                "sentNumber": "71MS0040-202-25-0001203",
+                "lawsuitSentDate": "2025-11-14T09:10:06+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801789501,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 801837101,
+            "successResult": {
+                "sentNumber": "40MS0002-202-25-0000665",
+                "lawsuitSentDate": "2025-11-14T09:33:40+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801897001,
+            "successResult": {
+                "sentNumber": "63MS0150-202-25-0000802",
+                "lawsuitSentDate": "2025-11-14T09:41:18+07:00"
+            }
+        },
+        {
+            "lawsuitId": 801982001,
+            "successResult": {
+                "sentNumber": "23MS0159-202-25-0001228",
+                "lawsuitSentDate": "2025-11-14T09:48:56+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802033201,
+            "successResult": {
+                "sentNumber": "61MS0214-202-25-0001073",
+                "lawsuitSentDate": "2025-11-14T09:56:33+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802200401,
+            "successResult": {
+                "sentNumber": "43MS0052-202-25-0000457",
+                "lawsuitSentDate": "2025-11-14T10:04:37+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802324301,
+            "successResult": {
+                "sentNumber": "66MS0074-202-25-0000647",
+                "lawsuitSentDate": "2025-11-14T10:12:15+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802367001,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 802371901,
+            "successResult": {
+                "sentNumber": "35MS0033-202-25-0000733",
+                "lawsuitSentDate": "2025-11-14T10:36:00+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802402701,
+            "successResult": {
+                "sentNumber": "25MS0016-202-25-0000658",
+                "lawsuitSentDate": "2025-11-14T10:43:39+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802469101,
+            "successResult": {
+                "sentNumber": "28RS0004-202-25-0000043",
+                "lawsuitSentDate": "2025-11-14T10:51:19+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802505801,
+            "successResult": {
+                "sentNumber": "10MS0033-202-25-0000387",
+                "lawsuitSentDate": "2025-11-14T10:58:56+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802511001,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000599",
+                "lawsuitSentDate": "2025-11-14T11:06:33+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802601101,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000600",
+                "lawsuitSentDate": "2025-11-14T11:14:14+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802713201,
+            "successResult": {
+                "sentNumber": "34MS0089-202-25-0000662",
+                "lawsuitSentDate": "2025-11-14T11:21:50+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802748801,
+            "successResult": {
+                "sentNumber": "23MS0159-202-25-0001230",
+                "lawsuitSentDate": "2025-11-14T11:38:44+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802750301,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 802806801,
+            "successResult": {
+                "sentNumber": "31MS0052-202-25-0000580",
+                "lawsuitSentDate": "2025-11-14T11:57:52+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802807201,
+            "successResult": {
+                "sentNumber": "72MS0050-202-25-0000845",
+                "lawsuitSentDate": "2025-11-14T12:05:30+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802825201,
+            "successResult": {
+                "sentNumber": "33MS0004-202-25-0000866",
+                "lawsuitSentDate": "2025-11-14T12:13:08+07:00"
+            }
+        },
+        {
+            "lawsuitId": 802942901,
+            "successResult": {
+                "sentNumber": "72MS0039-202-25-0001298",
+                "lawsuitSentDate": "2025-11-14T12:20:47+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803021201,
+            "successResult": {
+                "sentNumber": "64MS0051-202-25-0000821",
+                "lawsuitSentDate": "2025-11-14T12:28:43+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803128101,
+            "successResult": {
+                "sentNumber": "26MS0001-202-25-0000793",
+                "lawsuitSentDate": "2025-11-14T12:40:13+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803159201,
+            "successResult": {
+                "sentNumber": "52MS0022-202-25-0000607",
+                "lawsuitSentDate": "2025-11-14T12:48:30+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803178801,
+            "successResult": {
+                "sentNumber": "11MS0045-202-25-0000598",
+                "lawsuitSentDate": "2025-11-14T12:56:21+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803195001,
+            "successResult": {
+                "sentNumber": "61MS0117-202-25-0000816",
+                "lawsuitSentDate": "2025-11-14T13:04:34+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803364601,
+            "successResult": {
+                "sentNumber": "12MS0033-202-25-0000839",
+                "lawsuitSentDate": "2025-11-14T13:12:34+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803377901,
+            "successResult": {
+                "sentNumber": "52MS0151-202-25-0000689",
+                "lawsuitSentDate": "2025-11-14T13:20:12+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803511501,
+            "successResult": {
+                "sentNumber": "42MS0022-202-25-0000798",
+                "lawsuitSentDate": "2025-11-14T13:45:35+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803550301,
+            "successResult": {
+                "sentNumber": "65MS0027-202-25-0001817",
+                "lawsuitSentDate": "2025-11-14T13:54:33+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803578001,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000605",
+                "lawsuitSentDate": "2025-11-14T14:26:08+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803595501,
+            "successResult": {
+                "sentNumber": "63MS0161-202-25-0000671",
+                "lawsuitSentDate": "2025-11-14T14:52:16+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803630901,
+            "successResult": {
+                "sentNumber": "45MS0042-202-25-0000412",
+                "lawsuitSentDate": "2025-11-14T15:02:57+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803635601,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 803636301,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 803677101,
+            "successResult": {
+                "sentNumber": "66MS0049-202-25-0000774",
+                "lawsuitSentDate": "2025-11-14T16:07:39+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803686501,
+            "successResult": {
+                "sentNumber": "31MS0057-202-25-0000485",
+                "lawsuitSentDate": "2025-11-14T16:16:32+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803693301,
+            "successResult": {
+                "sentNumber": "21MS0044-202-25-0001207",
+                "lawsuitSentDate": "2025-11-14T16:25:20+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803711101,
+            "successResult": {
+                "sentNumber": "48MS0050-202-25-0000934",
+                "lawsuitSentDate": "2025-11-14T16:33:28+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803717401,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 803720201,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 803767901,
+            "successResult": {
+                "sentNumber": "43MS0041-202-25-0000307",
+                "lawsuitSentDate": "2025-11-14T17:29:47+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803816801,
+            "successResult": {
+                "sentNumber": "14MS0061-202-25-0001309",
+                "lawsuitSentDate": "2025-11-14T17:40:17+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803859401,
+            "successResult": {
+                "sentNumber": "48MS0050-202-25-0000935",
+                "lawsuitSentDate": "2025-11-14T17:56:05+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803899601,
+            "successResult": {
+                "sentNumber": "61MS0088-202-25-0000817",
+                "lawsuitSentDate": "2025-11-14T18:04:22+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803904001,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 803923101,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 803982701,
+            "successResult": {
+                "sentNumber": "23MS0156-202-25-0000793",
+                "lawsuitSentDate": "2025-11-14T19:10:36+07:00"
+            }
+        },
+        {
+            "lawsuitId": 803985901,
+            "successResult": {
+                "sentNumber": "42MS0048-202-25-0001307",
+                "lawsuitSentDate": "2025-11-14T19:18:19+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804009601,
+            "successResult": {
+                "sentNumber": "37MS0023-202-25-0000667",
+                "lawsuitSentDate": "2025-11-14T19:26:22+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804106501,
+            "successResult": {
+                "sentNumber": "47MS0025-202-25-0000991",
+                "lawsuitSentDate": "2025-11-14T19:34:36+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804140101,
+            "successResult": {
+                "sentNumber": "42MS0104-202-25-0001047",
+                "lawsuitSentDate": "2025-11-14T19:42:32+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804140901,
+            "successResult": {
+                "sentNumber": "61MS0213-202-25-0000752",
+                "lawsuitSentDate": "2025-11-14T20:00:26+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804189501,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 804196001,
+            "successResult": {
+                "sentNumber": "61MS0112-202-25-0000734",
+                "lawsuitSentDate": "2025-11-14T20:20:03+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804205501,
+            "successResult": {
+                "sentNumber": "25MS0093-202-25-0000810",
+                "lawsuitSentDate": "2025-11-14T20:27:40+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804224001,
+            "successResult": {
+                "sentNumber": "43MS0018-202-25-0001092",
+                "lawsuitSentDate": "2025-11-14T20:35:17+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804238701,
+            "successResult": {
+                "sentNumber": "64MS0104-202-25-0000972",
+                "lawsuitSentDate": "2025-11-14T20:43:13+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804310501,
+            "successResult": {
+                "sentNumber": "27MS0072-202-25-0000780",
+                "lawsuitSentDate": "2025-11-14T20:50:49+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804335201,
+            "successResult": {
+                "sentNumber": "50MS0257-202-25-0000686",
+                "lawsuitSentDate": "2025-11-14T21:02:37+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804336901,
+            "successResult": {
+                "sentNumber": "72MS0038-202-25-0001420",
+                "lawsuitSentDate": "2025-11-14T21:11:08+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804351301,
+            "successResult": {
+                "sentNumber": "25MS0093-202-25-0000812",
+                "lawsuitSentDate": "2025-11-14T21:18:45+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804359601,
+            "successResult": {
+                "sentNumber": "23MS0155-202-25-0000937",
+                "lawsuitSentDate": "2025-11-14T21:26:26+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804420801,
+            "successResult": {
+                "sentNumber": "08MS0006-202-25-0001092",
+                "lawsuitSentDate": "2025-11-14T21:34:02+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804427401,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000622",
+                "lawsuitSentDate": "2025-11-14T21:41:38+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804442701,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000623",
+                "lawsuitSentDate": "2025-11-14T21:49:14+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804452001,
+            "successResult": {
+                "sentNumber": "65MS0012-202-25-0001184",
+                "lawsuitSentDate": "2025-11-14T22:05:13+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804464101,
+            "successResult": {
+                "sentNumber": "14MS0041-202-25-0001730",
+                "lawsuitSentDate": "2025-11-14T22:12:50+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804482101,
+            "successResult": {
+                "sentNumber": "50MS0257-202-25-0000687",
+                "lawsuitSentDate": "2025-11-14T22:20:26+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804484501,
+            "successResult": {
+                "sentNumber": "19MS0001-202-25-0002105",
+                "lawsuitSentDate": "2025-11-14T22:28:02+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804489901,
+            "successResult": {
+                "sentNumber": "36MS0113-202-25-0000826",
+                "lawsuitSentDate": "2025-11-14T22:35:55+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804498301,
+            "successResult": {
+                "sentNumber": "37MS0031-202-25-0000158",
+                "lawsuitSentDate": "2025-11-14T22:43:32+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804647801,
+            "successResult": {
+                "sentNumber": "75MS0061-202-25-0000385",
+                "lawsuitSentDate": "2025-11-14T22:51:08+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804669101,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 804705401,
+            "successResult": {
+                "sentNumber": "31MS0057-202-25-0000487",
+                "lawsuitSentDate": "2025-11-14T23:10:49+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804719001,
+            "successResult": {
+                "sentNumber": "53MS0022-202-25-0000255",
+                "lawsuitSentDate": "2025-11-14T23:18:26+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804750001,
+            "successResult": {
+                "sentNumber": "59MS0055-202-25-0000470",
+                "lawsuitSentDate": "2025-11-14T23:26:03+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804750601,
+            "successResult": {
+                "sentNumber": "76MS0050-202-25-0000987",
+                "lawsuitSentDate": "2025-11-14T23:33:43+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804858101,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 804870101,
+            "successResult": {
+                "sentNumber": "64MS0051-202-25-0000823",
+                "lawsuitSentDate": "2025-11-14T23:52:46+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804914801,
+            "successResult": {
+                "sentNumber": "73MS0047-202-25-0000411",
+                "lawsuitSentDate": "2025-11-15T00:10:19+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804921401,
+            "successResult": {
+                "sentNumber": "31MS0080-202-25-0000576",
+                "lawsuitSentDate": "2025-11-15T00:18:16+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804951801,
+            "successResult": {
+                "sentNumber": "58MS0007-202-25-0000439",
+                "lawsuitSentDate": "2025-11-15T00:26:29+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804966901,
+            "successResult": {
+                "sentNumber": "32MS0030-202-25-0000103",
+                "lawsuitSentDate": "2025-11-15T00:34:09+07:00"
+            }
+        },
+        {
+            "lawsuitId": 804980201,
+            "successResult": {
+                "sentNumber": "70MS0016-202-25-0001132",
+                "lawsuitSentDate": "2025-11-15T00:41:47+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805001601,
+            "successResult": {
+                "sentNumber": "23MS0011-202-25-0001331",
+                "lawsuitSentDate": "2025-11-15T00:49:25+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805021701,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 805047901,
+            "successResult": {
+                "sentNumber": "58MS0007-202-25-0000440",
+                "lawsuitSentDate": "2025-11-15T01:12:19+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805055001,
+            "successResult": {
+                "sentNumber": "25MS0085-202-25-0000844",
+                "lawsuitSentDate": "2025-11-15T01:20:12+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805056601,
+            "successResult": {
+                "sentNumber": "26MS0001-202-25-0000816",
+                "lawsuitSentDate": "2025-11-15T01:27:50+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805072301,
+            "successResult": {
+                "sentNumber": "13MS0024-202-25-0000721",
+                "lawsuitSentDate": "2025-11-15T01:35:29+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805102201,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000633",
+                "lawsuitSentDate": "2025-11-15T01:43:07+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805185101,
+            "successResult": {
+                "sentNumber": "61MS0111-202-25-0000515",
+                "lawsuitSentDate": "2025-11-15T01:50:44+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805200001,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 805247201,
+            "successResult": {
+                "sentNumber": "26MS0001-202-25-0000817",
+                "lawsuitSentDate": "2025-11-15T02:14:28+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805266201,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 805336501,
+            "successResult": {
+                "sentNumber": "62MS0070-202-25-0000335",
+                "lawsuitSentDate": "2025-11-15T02:33:40+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805366301,
+            "successResult": {
+                "sentNumber": "42MS0029-202-25-0000985",
+                "lawsuitSentDate": "2025-11-15T02:41:21+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805534901,
+            "successResult": {
+                "sentNumber": "66MS0198-202-25-0000481",
+                "lawsuitSentDate": "2025-11-15T02:48:58+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805536301,
+            "successResult": {
+                "sentNumber": "50MS0257-202-25-0000689",
+                "lawsuitSentDate": "2025-11-15T02:56:35+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805536901,
+            "successResult": {
+                "sentNumber": "61MS0230-202-25-0000833",
+                "lawsuitSentDate": "2025-11-15T03:04:37+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805542201,
+            "successResult": {
+                "sentNumber": "25MS0085-202-25-0000845",
+                "lawsuitSentDate": "2025-11-15T03:15:58+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805562601,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 805582101,
+            "successResult": {
+                "sentNumber": "52MS0022-202-25-0000609",
+                "lawsuitSentDate": "2025-11-15T04:04:11+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805629301,
+            "successResult": {
+                "sentNumber": "75MS0061-202-25-0000390",
+                "lawsuitSentDate": "2025-11-15T04:18:43+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805651901,
+            "successResult": {
+                "sentNumber": "39MS0029-202-25-0000689",
+                "lawsuitSentDate": "2025-11-15T04:26:19+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805709001,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000639",
+                "lawsuitSentDate": "2025-11-15T04:33:58+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805757401,
+            "successResult": {
+                "sentNumber": "72MS0047-202-25-0001761",
+                "lawsuitSentDate": "2025-11-15T04:41:34+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805808101,
+            "successResult": {
+                "sentNumber": "73MS0046-202-25-0000750",
+                "lawsuitSentDate": "2025-11-15T04:49:14+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805865701,
+            "successResult": {
+                "sentNumber": "61MS0136-202-25-0000941",
+                "lawsuitSentDate": "2025-11-15T04:56:53+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805881801,
+            "successResult": {
+                "sentNumber": "12MS0033-202-25-0000844",
+                "lawsuitSentDate": "2025-11-15T05:04:30+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805911101,
+            "successResult": {
+                "sentNumber": "14MS0061-202-25-0001324",
+                "lawsuitSentDate": "2025-11-15T05:21:52+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805930201,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 805934401,
+            "successResult": {
+                "sentNumber": "66MS0040-202-25-0000906",
+                "lawsuitSentDate": "2025-11-15T06:09:54+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805951901,
+            "successResult": {
+                "sentNumber": "28RS0015-202-25-0000013",
+                "lawsuitSentDate": "2025-11-15T06:24:27+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805968301,
+            "successResult": {
+                "sentNumber": "73MS0046-202-25-0000753",
+                "lawsuitSentDate": "2025-11-15T06:32:03+07:00"
+            }
+        },
+        {
+            "lawsuitId": 805974001,
+            "successResult": {
+                "sentNumber": "61MS0088-202-25-0000819",
+                "lawsuitSentDate": "2025-11-15T06:39:38+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806030701,
+            "successResult": {
+                "sentNumber": "64MS0065-202-25-0001044",
+                "lawsuitSentDate": "2025-11-15T06:47:14+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806104101,
+            "successResult": {
+                "sentNumber": "45MS0042-202-25-0000418",
+                "lawsuitSentDate": "2025-11-15T06:54:51+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806110501,
+            "successResult": {
+                "sentNumber": "28RS0004-202-25-0000049",
+                "lawsuitSentDate": "2025-11-15T07:02:28+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806125301,
+            "successResult": {
+                "sentNumber": "54MS0001-202-25-0000601",
+                "lawsuitSentDate": "2025-11-15T07:10:07+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806160901,
+            "successResult": {
+                "sentNumber": "26MS0001-202-25-0000828",
+                "lawsuitSentDate": "2025-11-15T07:27:05+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806210501,
+            "successResult": {
+                "sentNumber": "23MS0255-202-25-0001341",
+                "lawsuitSentDate": "2025-11-15T07:34:43+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806225901,
+            "successResult": {
+                "sentNumber": "46MS0039-202-25-0000306",
+                "lawsuitSentDate": "2025-11-15T07:42:18+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806263101,
+            "successResult": {
+                "sentNumber": "44MS0037-202-25-0000273",
+                "lawsuitSentDate": "2025-11-15T07:49:55+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806280301,
+            "successResult": {
+                "sentNumber": "62MS0033-202-25-0000549",
+                "lawsuitSentDate": "2025-11-15T07:57:32+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806294901,
+            "successResult": {
+                "sentNumber": "19MS0001-202-25-0002108",
+                "lawsuitSentDate": "2025-11-15T08:05:08+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806311101,
+            "successResult": {
+                "sentNumber": "66MS0040-202-25-0000907",
+                "lawsuitSentDate": "2025-11-15T08:12:48+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806315101,
+            "successResult": {
+                "sentNumber": "63MS0162-202-25-0000997",
+                "lawsuitSentDate": "2025-11-15T08:30:06+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806341001,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 806407001,
+            "successResult": {
+                "sentNumber": "64MS0110-202-25-0000879",
+                "lawsuitSentDate": "2025-11-15T09:18:18+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806426501,
+            "successResult": {
+                "sentNumber": "43MS0041-202-25-0000310",
+                "lawsuitSentDate": "2025-11-15T09:32:50+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806441001,
+            "successResult": {
+                "sentNumber": "27MS0042-202-25-0000947",
+                "lawsuitSentDate": "2025-11-15T09:40:28+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806447601,
+            "successResult": {
+                "sentNumber": "72MS0012-202-25-0001018",
+                "lawsuitSentDate": "2025-11-15T09:48:05+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806450601,
+            "successResult": {
+                "sentNumber": "46MS0026-202-25-0000448",
+                "lawsuitSentDate": "2025-11-15T09:55:41+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806480101,
+            "successResult": {
+                "sentNumber": "19MS0005-202-25-0000630",
+                "lawsuitSentDate": "2025-11-15T10:03:18+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806494901,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000649",
+                "lawsuitSentDate": "2025-11-15T10:10:54+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806556001,
+            "successResult": {
+                "sentNumber": "25MS0085-202-25-0000847",
+                "lawsuitSentDate": "2025-11-15T10:18:31+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806627301,
+            "successResult": {
+                "sentNumber": "66MS0213-202-25-0000713",
+                "lawsuitSentDate": "2025-11-15T10:35:28+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806642501,
+            "successResult": {
+                "sentNumber": "70MS0035-202-25-0000910",
+                "lawsuitSentDate": "2025-11-15T10:43:05+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806660901,
+            "successResult": {
+                "sentNumber": "50MS0257-202-25-0000695",
+                "lawsuitSentDate": "2025-11-15T10:50:41+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806663101,
+            "successResult": {
+                "sentNumber": "27MS0014-202-25-0001186",
+                "lawsuitSentDate": "2025-11-15T10:58:18+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806708101,
+            "successResult": {
+                "sentNumber": "14MS0060-202-25-0000590",
+                "lawsuitSentDate": "2025-11-15T11:06:00+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806727001,
+            "successResult": {
+                "sentNumber": "64MS0115-202-25-0001004",
+                "lawsuitSentDate": "2025-11-15T11:13:36+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806740101,
+            "successResult": {
+                "sentNumber": "40MS0034-202-25-0000369",
+                "lawsuitSentDate": "2025-11-15T11:21:15+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806770901,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 806782501,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 806785501,
+            "successResult": {
+                "sentNumber": "61MS0230-202-25-0000837",
+                "lawsuitSentDate": "2025-11-15T12:50:55+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806828101,
+            "successResult": {
+                "sentNumber": "44MS0037-202-25-0000276",
+                "lawsuitSentDate": "2025-11-15T12:58:32+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806872001,
+            "successResult": {
+                "sentNumber": "31MS0064-202-25-0000697",
+                "lawsuitSentDate": "2025-11-15T13:06:15+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806883401,
+            "successResult": {
+                "sentNumber": "18MS0036-202-25-0000997",
+                "lawsuitSentDate": "2025-11-15T13:13:52+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806909101,
+            "successResult": {
+                "sentNumber": "47MS0012-202-25-0001005",
+                "lawsuitSentDate": "2025-11-15T13:21:31+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806920701,
+            "successResult": {
+                "sentNumber": "66MS0209-202-25-0000111",
+                "lawsuitSentDate": "2025-11-15T13:29:08+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806920801,
+            "successResult": {
+                "sentNumber": "48MS0039-202-25-0001246",
+                "lawsuitSentDate": "2025-11-15T13:43:40+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806924001,
+            "successResult": {
+                "sentNumber": "63MS0064-202-25-0000682",
+                "lawsuitSentDate": "2025-11-15T13:51:18+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806945801,
+            "successResult": {
+                "sentNumber": "50MS0261-202-25-0000726",
+                "lawsuitSentDate": "2025-11-15T13:58:54+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806955201,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000655",
+                "lawsuitSentDate": "2025-11-15T14:06:34+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806975901,
+            "successResult": {
+                "sentNumber": "68MS0007-202-25-0000689",
+                "lawsuitSentDate": "2025-11-15T14:14:11+07:00"
+            }
+        },
+        {
+            "lawsuitId": 806996201,
+            "successResult": {
+                "sentNumber": "27MS0052-202-25-0000663",
+                "lawsuitSentDate": "2025-11-15T14:21:47+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807053601,
+            "successResult": {
+                "sentNumber": "57MS0044-202-25-0000669",
+                "lawsuitSentDate": "2025-11-15T14:29:23+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807071301,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 807073601,
+            "successResult": {
+                "sentNumber": "13RS0004-202-25-0000010",
+                "lawsuitSentDate": "2025-11-15T15:17:13+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807083101,
+            "successResult": {
+                "sentNumber": "62MS0033-202-25-0000551",
+                "lawsuitSentDate": "2025-11-15T15:24:48+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807089701,
+            "successResult": {
+                "sentNumber": "47MS0046-202-25-0001015",
+                "lawsuitSentDate": "2025-11-15T15:32:27+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807130201,
+            "successResult": {
+                "sentNumber": "72MS0038-202-25-0001428",
+                "lawsuitSentDate": "2025-11-15T15:49:25+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807155201,
+            "successResult": {
+                "sentNumber": "43MS0052-202-25-0000463",
+                "lawsuitSentDate": "2025-11-15T15:57:01+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807156001,
+            "successResult": {
+                "sentNumber": "63MS0162-202-25-0001000",
+                "lawsuitSentDate": "2025-11-15T16:04:42+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807178901,
+            "successResult": {
+                "sentNumber": "45MS0042-202-25-0000427",
+                "lawsuitSentDate": "2025-11-15T16:12:22+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807191201,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 807198201,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 807201201,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 807208501,
+            "successResult": {
+                "sentNumber": "33MS0001-202-25-0000739",
+                "lawsuitSentDate": "2025-11-15T17:54:47+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807243101,
+            "successResult": {
+                "sentNumber": "64MS0030-202-25-0001164",
+                "lawsuitSentDate": "2025-11-15T18:02:24+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807279401,
+            "successResult": {
+                "sentNumber": "21MS0043-202-25-0000557",
+                "lawsuitSentDate": "2025-11-15T18:10:02+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807283001,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 807320201,
+            "successResult": {
+                "sentNumber": "27MS0072-202-25-0000791",
+                "lawsuitSentDate": "2025-11-15T18:29:05+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807384601,
+            "successResult": {
+                "sentNumber": "42MS0031-202-25-0001064",
+                "lawsuitSentDate": "2025-11-15T18:36:42+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807440401,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 807519001,
+            "successResult": {
+                "sentNumber": "11MS0017-202-25-0000765",
+                "lawsuitSentDate": "2025-11-15T19:25:53+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807520101,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 807547901,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 807552301,
+            "successResult": {
+                "sentNumber": "42MS0084-202-25-0001223",
+                "lawsuitSentDate": "2025-11-15T20:48:08+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807558701,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 807591501,
+            "successResult": {
+                "sentNumber": "59MS0128-202-25-0000493",
+                "lawsuitSentDate": "2025-11-15T21:29:57+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807612601,
+            "successResult": {
+                "sentNumber": "27MS0010-202-25-0001134",
+                "lawsuitSentDate": "2025-11-15T21:37:40+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807626901,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 807631001,
+            "successResult": {
+                "sentNumber": "28RS0004-202-25-0000054",
+                "lawsuitSentDate": "2025-11-15T22:22:48+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807662201,
+            "successResult": {
+                "sentNumber": "18MS0070-202-25-0000935",
+                "lawsuitSentDate": "2025-11-15T22:30:22+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807766701,
+            "successResult": {
+                "sentNumber": "39MS0041-202-25-0001008",
+                "lawsuitSentDate": "2025-11-15T22:38:01+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807767501,
+            "successResult": {
+                "sentNumber": "36MS0113-202-25-0000831",
+                "lawsuitSentDate": "2025-11-15T22:45:38+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807804501,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000671",
+                "lawsuitSentDate": "2025-11-15T22:53:14+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807810601,
+            "successResult": {
+                "sentNumber": "36MS0068-202-25-0000558",
+                "lawsuitSentDate": "2025-11-15T23:04:37+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807829001,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 807829501,
+            "successResult": {
+                "sentNumber": "23MS0168-202-25-0000865",
+                "lawsuitSentDate": "2025-11-15T23:23:38+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807830601,
+            "successResult": {
+                "sentNumber": "19MS0001-202-25-0002121",
+                "lawsuitSentDate": "2025-11-15T23:31:17+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807896401,
+            "successResult": {
+                "sentNumber": "66MS0049-202-25-0000785",
+                "lawsuitSentDate": "2025-11-15T23:38:55+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807901001,
+            "successResult": {
+                "sentNumber": "49MS0003-202-25-0000803",
+                "lawsuitSentDate": "2025-11-15T23:46:32+07:00"
+            }
+        },
+        {
+            "lawsuitId": 807998601,
+            "successResult": {
+                "sentNumber": "70MS0049-202-25-0000433",
+                "lawsuitSentDate": "2025-11-15T23:54:07+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808032101,
+            "successResult": {
+                "sentNumber": "51MS0002-202-25-0000878",
+                "lawsuitSentDate": "2025-11-16T00:06:24+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808043001,
+            "successResult": {
+                "sentNumber": "30MS0002-202-25-0000676",
+                "lawsuitSentDate": "2025-11-16T00:14:00+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808045801,
+            "successResult": {
+                "sentNumber": "23MS0107-202-25-0001325",
+                "lawsuitSentDate": "2025-11-16T00:21:40+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808056901,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 808081901,
+            "successResult": {
+                "sentNumber": "23MS0156-202-25-0000811",
+                "lawsuitSentDate": "2025-11-16T00:40:39+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808112001,
+            "successResult": {
+                "sentNumber": "37MS0031-202-25-0000160",
+                "lawsuitSentDate": "2025-11-16T00:48:13+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808114901,
+            "successResult": {
+                "sentNumber": "23MS0227-202-25-0000592",
+                "lawsuitSentDate": "2025-11-16T00:55:52+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808121601,
+            "successResult": {
+                "sentNumber": "42MS0023-202-25-0001140",
+                "lawsuitSentDate": "2025-11-16T01:18:06+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808155601,
+            "successResult": {
+                "sentNumber": "23MS0160-202-25-0000961",
+                "lawsuitSentDate": "2025-11-16T01:25:45+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808167001,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000675",
+                "lawsuitSentDate": "2025-11-16T01:33:21+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808172301,
+            "successResult": {
+                "sentNumber": "66MS0147-202-25-0000412",
+                "lawsuitSentDate": "2025-11-16T01:40:58+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808184101,
+            "successResult": {
+                "sentNumber": "73MS0061-202-25-0000476",
+                "lawsuitSentDate": "2025-11-16T01:48:33+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808224401,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 808267301,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 808279701,
+            "successResult": {
+                "sentNumber": "33MS0041-202-25-0000732",
+                "lawsuitSentDate": "2025-11-16T02:41:35+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808330201,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 808341801,
+            "successResult": {
+                "sentNumber": "28RS0004-202-25-0000057",
+                "lawsuitSentDate": "2025-11-16T03:23:01+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808375001,
+            "successResult": {
+                "sentNumber": "53MS0022-202-25-0000261",
+                "lawsuitSentDate": "2025-11-16T03:30:40+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808415701,
+            "successResult": {
+                "sentNumber": "76MS0038-202-25-0000606",
+                "lawsuitSentDate": "2025-11-16T03:38:19+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808419201,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000676",
+                "lawsuitSentDate": "2025-11-16T03:45:55+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808507601,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000677",
+                "lawsuitSentDate": "2025-11-16T03:53:31+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808544401,
+            "successResult": {
+                "sentNumber": "42MS0011-202-25-0001112",
+                "lawsuitSentDate": "2025-11-16T04:01:08+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808548801,
+            "successResult": {
+                "sentNumber": "23MS0156-202-25-0000814",
+                "lawsuitSentDate": "2025-11-16T04:15:31+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808600101,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 808624601,
+            "successResult": {
+                "sentNumber": "52MS0151-202-25-0000702",
+                "lawsuitSentDate": "2025-11-16T05:03:33+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808635701,
+            "successResult": {
+                "sentNumber": "63MS0141-202-25-0000602",
+                "lawsuitSentDate": "2025-11-16T05:18:19+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808651701,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 808659001,
+            "successResult": {
+                "sentNumber": "26MS0001-202-25-0000855",
+                "lawsuitSentDate": "2025-11-16T05:37:22+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808703201,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000679",
+                "lawsuitSentDate": "2025-11-16T05:44:58+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808720201,
+            "successResult": {
+                "sentNumber": "50MS0257-202-25-0000698",
+                "lawsuitSentDate": "2025-11-16T05:52:34+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808739501,
+            "successResult": {
+                "sentNumber": "42MS0131-202-25-0001225",
+                "lawsuitSentDate": "2025-11-16T06:00:11+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808766901,
+            "successResult": {
+                "sentNumber": "66MS0217-202-25-0000521",
+                "lawsuitSentDate": "2025-11-16T06:07:51+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808784901,
+            "successResult": {
+                "sentNumber": "61MS0196-202-25-0000606",
+                "lawsuitSentDate": "2025-11-16T06:20:13+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808787501,
+            "successResult": {
+                "sentNumber": "34MS0012-202-25-0001410",
+                "lawsuitSentDate": "2025-11-16T06:27:50+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808795501,
+            "successResult": {
+                "sentNumber": "14MS0060-202-25-0000597",
+                "lawsuitSentDate": "2025-11-16T06:35:26+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808797201,
+            "successResult": {
+                "sentNumber": "08MS0006-202-25-0001104",
+                "lawsuitSentDate": "2025-11-16T06:43:02+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808807001,
+            "successResult": {
+                "sentNumber": "28RS0004-202-25-0000059",
+                "lawsuitSentDate": "2025-11-16T06:50:38+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808828001,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000682",
+                "lawsuitSentDate": "2025-11-16T06:58:15+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808862101,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000683",
+                "lawsuitSentDate": "2025-11-16T07:05:56+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808893201,
+            "successResult": {
+                "sentNumber": "30MS0001-202-25-0001911",
+                "lawsuitSentDate": "2025-11-16T07:22:56+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808928801,
+            "successResult": {
+                "sentNumber": "38MS0006-202-25-0000950",
+                "lawsuitSentDate": "2025-11-16T07:30:32+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808974901,
+            "successResult": {
+                "sentNumber": "66MS0209-202-25-0000114",
+                "lawsuitSentDate": "2025-11-16T07:38:08+07:00"
+            }
+        },
+        {
+            "lawsuitId": 808989601,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 809021201,
+            "successResult": {
+                "sentNumber": "70MS0035-202-25-0000920",
+                "lawsuitSentDate": "2025-11-16T07:57:16+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809030901,
+            "successResult": {
+                "sentNumber": "66MS0097-202-25-0000818",
+                "lawsuitSentDate": "2025-11-16T08:04:56+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809031501,
+            "successResult": {
+                "sentNumber": "11MS0037-202-25-0000813",
+                "lawsuitSentDate": "2025-11-16T08:12:32+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809047501,
+            "successResult": {
+                "sentNumber": "43MS0023-202-25-0000738",
+                "lawsuitSentDate": "2025-11-16T08:24:29+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809064001,
+            "successResult": {
+                "sentNumber": "50MS0257-202-25-0000699",
+                "lawsuitSentDate": "2025-11-16T08:32:06+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809069401,
+            "successResult": {
+                "sentNumber": "05MS0016-202-25-0000401",
+                "lawsuitSentDate": "2025-11-16T08:39:44+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809106101,
+            "successResult": {
+                "sentNumber": "70MS0002-202-25-0001204",
+                "lawsuitSentDate": "2025-11-16T08:47:23+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809110401,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000685",
+                "lawsuitSentDate": "2025-11-16T08:54:59+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809143201,
+            "successResult": {
+                "sentNumber": "47MS0059-202-25-0001218",
+                "lawsuitSentDate": "2025-11-16T09:02:46+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809191601,
+            "successResult": {
+                "sentNumber": "45MS0042-202-25-0000438",
+                "lawsuitSentDate": "2025-11-16T09:10:25+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809199101,
+            "successResult": {
+                "sentNumber": "55MS0073-202-25-0000530",
+                "lawsuitSentDate": "2025-11-16T09:27:43+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809223001,
+            "successResult": {
+                "sentNumber": "61MS0214-202-25-0001089",
+                "lawsuitSentDate": "2025-11-16T09:35:20+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809231701,
+            "successResult": {
+                "sentNumber": "23MS0139-202-25-0001192",
+                "lawsuitSentDate": "2025-11-16T09:42:57+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809271401,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 809312401,
+            "successResult": {
+                "sentNumber": "63MS0150-202-25-0000814",
+                "lawsuitSentDate": "2025-11-16T10:02:01+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809364101,
+            "successResult": {
+                "sentNumber": "44MS0015-202-25-0000750",
+                "lawsuitSentDate": "2025-11-16T10:09:42+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809480601,
+            "successResult": {
+                "sentNumber": "29MS0051-202-25-0000672",
+                "lawsuitSentDate": "2025-11-16T10:17:19+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809488901,
+            "successResult": {
+                "sentNumber": "61MS0213-202-25-0000764",
+                "lawsuitSentDate": "2025-11-16T10:29:19+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809503401,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000686",
+                "lawsuitSentDate": "2025-11-16T10:36:56+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809536201,
+            "successResult": {
+                "sentNumber": "11MS0060-202-25-0000909",
+                "lawsuitSentDate": "2025-11-16T10:44:33+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809584001,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000687",
+                "lawsuitSentDate": "2025-11-16T10:52:11+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809590501,
+            "successResult": {
+                "sentNumber": "61MS0001-202-25-0000843",
+                "lawsuitSentDate": "2025-11-16T10:59:48+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809592001,
+            "successResult": {
+                "sentNumber": "50MS0260-202-25-0000602",
+                "lawsuitSentDate": "2025-11-16T11:07:24+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809639901,
+            "successResult": {
+                "sentNumber": "70MS0035-202-25-0000921",
+                "lawsuitSentDate": "2025-11-16T11:14:58+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809655401,
+            "successResult": {
+                "sentNumber": "34MS0068-202-25-0001195",
+                "lawsuitSentDate": "2025-11-16T11:31:59+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809656201,
+            "successResult": {
+                "sentNumber": "39MS0021-202-25-0001362",
+                "lawsuitSentDate": "2025-11-16T11:39:36+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809658101,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 809681601,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 809685101,
+            "successResult": {
+                "sentNumber": "59MS0107-202-25-0000412",
+                "lawsuitSentDate": "2025-11-16T12:33:00+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809702501,
+            "successResult": {
+                "sentNumber": "23MS0011-202-25-0001344",
+                "lawsuitSentDate": "2025-11-16T12:40:46+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809783901,
+            "successResult": {
+                "sentNumber": "01MS0023-202-25-0000763",
+                "lawsuitSentDate": "2025-11-16T12:48:23+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809797101,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 809800001,
+            "successResult": {
+                "sentNumber": "27MS0010-202-25-0001136",
+                "lawsuitSentDate": "2025-11-16T13:35:32+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809812301,
+            "successResult": {
+                "sentNumber": "42MS0029-202-25-0000991",
+                "lawsuitSentDate": "2025-11-16T13:43:07+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809922701,
+            "successResult": {
+                "sentNumber": "73MS0054-202-25-0000796",
+                "lawsuitSentDate": "2025-11-16T13:50:43+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809934201,
+            "successResult": {
+                "sentNumber": "71MS0039-202-25-0001129",
+                "lawsuitSentDate": "2025-11-16T13:58:18+07:00"
+            }
+        },
+        {
+            "lawsuitId": 809939801,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 810011701,
+            "successResult": {
+                "sentNumber": "33MS0033-202-25-0001039",
+                "lawsuitSentDate": "2025-11-16T14:47:40+07:00"
+            }
+        },
+        {
+            "lawsuitId": 810235701,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000694",
+                "lawsuitSentDate": "2025-11-16T14:55:17+07:00"
+            }
+        },
+        {
+            "lawsuitId": 810270801,
+            "successResult": {
+                "sentNumber": "26MS0001-202-25-0000862",
+                "lawsuitSentDate": "2025-11-16T15:03:20+07:00"
+            }
+        },
+        {
+            "lawsuitId": 810362501,
+            "successResult": {
+                "sentNumber": "47MS0046-202-25-0001018",
+                "lawsuitSentDate": "2025-11-16T15:10:57+07:00"
+            }
+        },
+        {
+            "lawsuitId": 810403801,
+            "successResult": {
+                "sentNumber": "66MS0209-202-25-0000115",
+                "lawsuitSentDate": "2025-11-16T15:18:36+07:00"
+            }
+        },
+        {
+            "lawsuitId": 810432801,
+            "successResult": {
+                "sentNumber": "23MS0227-202-25-0000596",
+                "lawsuitSentDate": "2025-11-16T15:26:11+07:00"
+            }
+        },
+        {
+            "lawsuitId": 810548101,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 810578701,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000695",
+                "lawsuitSentDate": "2025-11-16T16:11:12+07:00"
+            }
+        },
+        {
+            "lawsuitId": 810615901,
+            "errorResult": {
+                "errors": [
+                    "Слишком много попыток подать клиента, пропускаю его"
+                ]
+            }
+        },
+        {
+            "lawsuitId": 810657901,
+            "successResult": {
+                "sentNumber": "59MS0128-202-25-0000496",
+                "lawsuitSentDate": "2025-11-16T16:30:11+07:00"
+            }
+        },
+        {
+            "lawsuitId": 810663101,
+            "successResult": {
+                "sentNumber": "37MS0023-202-25-0000673",
+                "lawsuitSentDate": "2025-11-16T16:42:03+07:00"
+            }
+        },
+        {
+            "lawsuitId": 810698001,
+            "successResult": {
+                "sentNumber": "63MS0162-202-25-0001011",
+                "lawsuitSentDate": "2025-11-16T16:49:40+07:00"
+            }
+        },
+        {
+            "lawsuitId": 810965701,
+            "successResult": {
+                "sentNumber": "16MS0155-202-25-0000696",
+                "lawsuitSentDate": "2025-11-16T16:57:16+07:00"
+            }
+        },
+        {
+            "lawsuitId": 810993001,
+            "successResult": {
+                "sentNumber": "73MS0054-202-25-0000797",
+                "lawsuitSentDate": "2025-11-16T17:05:15+07:00"
+            }
+        },
+        {
+            "lawsuitId": 811311801,
+            "successResult": {
+                "sentNumber": "40MS0013-202-25-0000234",
+                "lawsuitSentDate": "2025-11-16T17:12:52+07:00"
+            }
+        }
+    ]
+}

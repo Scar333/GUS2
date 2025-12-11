@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <title>Робот ГАСП</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="{{ url_for('static', filename='vue-3.5.18.js') }}"></script>
+
+  <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap-4.6.1.min.css') }}">
+  <script src="{{ url_for('static', filename='chart-2.9.4.min.js') }}"></script>
+</head>
+<body class="bg-dark">
+
+    <nav class="navbar navbar-inverse bg-dark">
+    <div class="container-fluid">
+        <div class="navbar-header">
+        <div class="navbar-brand">ГАС</div>
+        </div>
+    </div>
+    </nav>
+
+    <div id="app" class="container-fluid bg-dark px-5 py-3">
+        <div>
+            <search-form></search-form>
+        </div>
+        <div>
+            <gas-cards-component></gas-cards-component>
+        </div>
+        <div>
+            <bar-chart-component></bar-chart-component>
+        </div>
+    </div>
+
+
+    <script type="module" src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

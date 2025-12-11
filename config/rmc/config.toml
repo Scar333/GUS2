@@ -1,0 +1,10 @@
+base_url = "https://rmc.lcgdc.ru/"
+
+[endpoints]
+get_registers = "api/ElectronicSubmissionByRobot/GetRegisters"
+start_submission = "api/ElectronicSubmissionByRobot/StartSubmission"
+errors_sent = "api/ElectronicSubmissionByRobot/ErrorsSent"
+
+[headers]
+Authorization = "76EB641E-D7D2-40DC-A439-2FC24B3823FC"
+Content-Type = "application/json"
