@@ -1,0 +1,10 @@
+/venv
+venv
+/__pycache__
+__pycache__
+core/browser/profiles
+/core/browser/profiles
+logs
+*.db
+/database/CourtActions.db
+database/CourtActions.db
